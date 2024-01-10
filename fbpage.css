@@ -1,0 +1,23 @@
+.container{
+    margin:auto;
+    width: 80%;
+}
+.row{
+    display: flex;
+    
+}
+
+.para-style{
+    width: 300px;
+    font-weight: 500;
+    font-size: 97.5%;
+}
+
+.col-2{
+    font-size: 100%;
+}
+
+.input-style{
+    width: 200px;
+    height: 25px;
+}
